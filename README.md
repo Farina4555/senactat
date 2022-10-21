@@ -1,2 +1,2 @@
 # senactati
-Aulas do cursos técnico em informática do senac tatuapé
+Aulas do curso técnico em informática do senac tatuapé
